@@ -1,0 +1,51 @@
+ixaliarity.com
+
+This Pixelarity License Agreement (the "Agreement") is by and between you and Vertex9 LLC. Your right to use any and all templates and other media content (each a "Template") downloaded from Pixelarity (the "Website") is subject to the terms of this Agreement.
+
+PLEASE READ THIS AGREEMENT CAREFULLY. BY OBTAINING OR USING A TEMPLATE FROM PIXELARITY IN ANY MANNER, YOU AGREE TO BE BOUND BY AND COMPLY WITH THE TERMS OF THIS AGREEMENT. IF YOU ARE ACCEPTING THIS AGREEMENT ON BEHALF OF YOUR EMPLOYER, YOU REPRESENT AND WARRANT THAT YOU HAVE FULL LEGAL AUTHORITY TO BIND YOUR EMPLOYER.
+1. Definition
+
+    (a) "Client" means the person or entity whose website you are designing if you are a web designer.
+    (b) "Pixelarity" or "we" or "our" or "us" means Vertex9 LLC, the owner and operator of the Website.
+    (c) "Template-Based Work" means any work derived from or based upon a Template.
+    (d) "User" is any user of a Template or a Template-Based Work.
+    (e) The terms "reproduce," "reproduction," "derivative works," "distribute," and "distribution" have the same meaning here as under the United States Copyright Act of 1976, as amended.
+    (f) "You" means you, your Client, or if you are accepting on behalf of your employer, then "you" means that employer and its affiliates.
+
+2. License Grant
+
+Subject to the terms of this Agreement, Pixelarity hereby grants you a perpetual, non-exclusive, non-transferable, non-sublicensable limited license to (i) download, copy, modify, and display the Template as set forth in Section 3 below, (ii) create Template-Based Works for yourself or a Client, and (iii) distribute the object code versions of Template-Based Works to third party Users in the form of a website. Templates can be used by you for an unlimited number of Template-Based Works and/or Clients. All rights not granted herein are expressly reserved by Pixelarity.
+3. Permitted Uses
+
+You may use the Template to design your own website or the website of your Client(s) and may make modifications necessary to fit the requirements of you or your Client(s) with the full knowledge that any Template-Based Work and the use of any Template-Based Work remains subject to this Agreement. You will own the Template-Based Works you create, but Pixelarity retains all right, title and interest in and to the Template. You may also remove Pixelarity's own copyright, trademark and attribution notices from any Template-Based Work, but it and the Template from which it is derived remains subject to this Agreement. You must retain all other third party copyright, trademark and attribution notices present in the Template (if any, such as those included with third party libraries) in the Template-Based Work if required by those third parties. You and all Users must use the Template and any Template-Based Work in compliance with all applicable federal, state and local laws, rules and regulations.
+4. Prohibited Uses
+
+You may not use the Template or do anything with the Template that is not expressly permitted by this Agreement, including, but not limited to, the following strictly prohibited uses:
+
+    (a) Assignment, resale, sublicense or other transfer of the Template or your rights to use the Template as set forth herein or otherwise make the Template available in a manner that allows a person to access or reproduce the Template as an electronic file, except in connection with a Template-Based Work and subject to Section 3 above;
+    (b) Use, reproduction or display of the Template or Template-Based Work in any manner that may be deemed by us, in our sole and absolute discretion, to be competitive or in conflict with the Website or our business (e.g. inclusion as part of an online website builder service, or distribution outside the Website such as on a template/themes marketplace or a "freebies" website);
+    (c) Use, reproduction or display of the Template in a fashion that we consider as, or under applicable law is considered, pornographic, obscene, immoral, infringing, defamatory or libelous; and
+    (d) Use or display of the Template in an electronic format that enables it to be downloaded or distributed in any file sharing arrangement.
+
+5. Limited Representations And Warranties
+
+The Template is provided "As Is" without representation, warranty or condition of any kind, either express or implied. Pixelarity hereby expressly excludes and disclaims all warranties, including, without limitation, the implied warranties of merchantability, fitness for a particular purpose and non-infringement. Pixelarity does not represent or warrant that the Template will meet your requirements or that its use will be uninterrupted or error free. The entire risk as to the quality and performance of the Template is with you. You assume the entire risk and cost of any necessary corrections. Certain jurisdictions do not allow the exclusion of implied warranties, so the above exclusion may not apply to you. You may have additional consumer rights, which vary from jurisdiction to jurisdiction.
+6. Limitation Of Liability
+
+In no event will Pixelarity or any of its affiliates or their respective directors, officers, employees, shareholders, members or agents be liable for any incidental, indirect, punitive, exemplary, or consequential damages whatsoever (including damages for loss of profits, interruption, or loss of business information) in connection with any claim, loss, damage, action, suit or other proceeding arising under or out of this Agreement, including, without limitation, your use of, reliance upon, access to, or exploitation of the Template, or any part thereof, or any rights granted to you hereunder, even if we have been advised of the possibility of such damages, whether the action is based on contract, tort (including negligence), infringement of intellectual property or otherwise.
+
+In any event, our total maximum aggregate liability under this Agreement, the license provided hereunder, or the use or exploitation of a Template in any manner whatsoever is limited to the fees actually paid by you to us under this agreement in respect of the purchase of your subscription with us.
+
+Some jurisdictions do not allow for the limitation or exclusion of liability for incidental or consequential damages, so the above limitation or exclusion may not apply to you.
+7. Indemnification
+
+User shall indemnify, defend and hold Pixelarity, its affiliates and their respective officers, directors, employees, members, and agents harmless from and against any and all claims, liability, losses, damages, costs and expenses (including reasonable attorneys' fees) incurred by any such party as a result of or in connection with any breach by you or anyone acting on your behalf of any of the terms of this Agreement.
+8. License Term
+
+This Agreement is effective until it is terminated and does not automatically terminate upon the expiration of your subscription with us. You can terminate this Agreement by destroying the Template and any Template-Based Work, along with any copies or archives of it, and ceasing to use the Template for any purpose. The Agreement shall also automatically terminate without notice by Pixelarity in the event you fail to comply with any of the terms and conditions of this Agreement. Upon termination, all rights and licenses granted to you and any Users under this Agreement will terminate and you must immediately (a) cease using the Template and any Template-Based Works for any purpose, (b) destroy or delete all copies and archives of the Template, Template-Based Works, or accompanying materials, and (c) if requested, confirm to us in writing that you have complied with these requirements.
+9. General
+
+You specifically agree and acknowledge that you have, in addition to the terms of this Agreement, reviewed and agree to the Pixelarity Terms of Use, which are incorporated into this Agreement. Our failure to insist upon or enforce strict performance of any provision of this Agreement shall not be deemed as a waiver of any provision or right. You may not assign this Agreement without our prior, written consent. If all or part of this Agreement is held to be illegal or unenforceable, then such provision shall be deemed to be restated so as to be enforceable to the maximum extent permissible under the law and the remainder of this Agreement shall remain in full force and effect. You should check the Website prior to each download of a Template to make sure you have the latest version of this Agreement. You agree to pay and be responsible for any and all sales taxes, use taxes, value added taxes and duties imposed by any jurisdiction as a result of the license granted to you or of your use of the Template or Template-Based Work pursuant to this Agreement. The parties agree that this English version of this Agreement is the original version and only binding interpretation of the Agreement between the parties. The exclusive jurisdiction and venue for actions related to the subject matter hereof shall be the state and federal courts located in the State of Tennessee, and you hereby submit to the personal jurisdiction of such courts. You hereby waive any right to a trial by jury in any proceeding arising out of or related to this Agreement.
+10. Acknowledgment
+
+You acknowledge that you have read and understand this Agreement and that you have had the opportunity to seek legal advice prior to agreeing to it. In consideration of us agreeing to provide the Template, you agree to be bound by the terms and conditions of this Agreement. You further agree that it is the complete and only statement of the agreement between you and Pixelarity, which supersedes any proposal or prior agreement and any other communication between you and Pixelarity relating to the subject matter of this Agreement.
